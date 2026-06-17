@@ -1,6 +1,7 @@
 // (This code here is to take .h5 files from Role 1,these .h5 files live on storage of ur system and like u cant do complex maths or apply various 
-    algos on it, therefore this code converts it into {pd.DataFrame} which is like a whiteboard on ur RAM{mathematical ready} and u can apply algorithms like BLS/TLS
-    on it)
+    algos on it, therefore this code converts it into {pd.DataFrame} which is like a whiteboard on ur RAM{mathematical ready} and u can apply
+    algorithms like BLS/TLS on it)
+   
 
 
 import os
